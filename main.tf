@@ -1,1 +1,4 @@
 ii
+provide section
+{
+  }
